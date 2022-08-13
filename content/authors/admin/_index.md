@@ -28,7 +28,7 @@ education:
     - course: Ph.D. in Computer Science
       institution: University of Waterloo, Ontario, Canada
       year: 2021 - Present
-    - course: Master's in Creative Informatics
+    - course: Master in Creative Informatics
       institution: The University of Tokyo, Tokyo, Japan
       year: 2019 - 2021
     - course: Bachelor in Software Engineering
